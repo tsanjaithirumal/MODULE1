@@ -40,6 +40,7 @@ Create another object of Minimum with three values.
 Step 7: End the program.
 
 ## Program:
+```
 #include<iostream>
 using namespace std;
 class Arithmetic{
@@ -67,7 +68,7 @@ int main(){
     Arithmetic ar1(22,28,21);
     return 0;
 }
-
+```
 ## Output:
 <img width="1037" height="349" alt="image" src="https://github.com/user-attachments/assets/1769d4fd-bf84-4f1c-b836-798314a15444" />
 ## Result:
